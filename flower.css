@@ -54,9 +54,7 @@ section .delivery-section{
 .click-img-2{
     padding-left: 38px;
 }
-.click-img-3{
-   
-}
+
 .hot-deal-1 {
     display:flex;
     background-color: #ef7c9540;
@@ -87,30 +85,51 @@ height: 200px;
         
     }
     .instagram{
-   
+   padding-left: 30px;
+   padding-right: 30px;
     }
     .insta-title{
-        padding-left:700px ;
+        padding-left:600px ;
        
     }
     .insta-para{
-        padding-left:330px;
+        padding-left:280px;
     }
 .insta-pic{
-    
-    
     display: flex;
     gap: 10px;
     width: 300px;
     height: 300px;
+    padding-left: 40px;
+    margin-top: 30px;
 }
+
 .detail{
     background-image: url('../flower-shop-assignment/pic/bg.png');
     background-repeat: no-repeat;
     width: 100%;
     height: 300px;
     margin-top: 100px;
-    padding-left:60px ;
+    padding-left:160px ;
+   
+}
+div .detail-title {
+   
+    padding-left: 27%;
+    font-size: 45px;
+    font-weight:700 ;
+}
+.detail-para{
+    padding-left: 33%;
+   
+    font-size: 23px; 
+}
+.details-text{
+    padding: 0px;
+}
+.detailss{
+    margin-left: 500px;
+    padding:30px;
 }
 
 .ftr{
