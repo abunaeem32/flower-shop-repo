@@ -1,6 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
+    background-color: white;
 }
 .header{
     display: flex;
@@ -134,6 +135,28 @@ div .detail-title {
 
 .ftr{
     background-color: black;
-    color: chartreuse;
+    color: rgb(0, 255, 251);
 }
+.ftr{
+    margin-top: 60px;
+   
+}
+div .ftrr{
+    justify-content: space-around;
+    align-items: center;
+}
+.ftr-title{
+    margin-top: 0px;
+    padding-left: 50%;
+}
+.ftr-title-clr{
+color: rgb(255, 0, 111);
+}
+.ftr-para{
+    padding-left: 30%;
+}
+.ftr-copy{
+    padding-left: 43%;
+}
+
 
