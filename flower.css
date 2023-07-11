@@ -30,12 +30,25 @@ div{
     border-radius: 11px;
    
 }
-section {
-    display: flex;
-    padding: 20px;
-    
+section{
+    background-color: aliceblue;
 }
-.click&collect{
+section .delivery-section{
+    max-width: 1440px;
+    max-height: 320px;
    
-    
 }
+.delivery{
+   
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 230, 215);
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 10px;
+}
+.hot-deal-1 {
+    display:flex;
+}
+
