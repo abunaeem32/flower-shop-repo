@@ -48,6 +48,15 @@ section .delivery-section{
     margin-right: 60px;
     font-size: 10px;
 }
+.click-img-1{
+   padding-left: 38px;
+}
+.click-img-2{
+    padding-left: 38px;
+}
+.click-img-3{
+   
+}
 .hot-deal-1 {
     display:flex;
     background-color: #ef7c9540;
@@ -77,6 +86,9 @@ height: 200px;
         align-items: center;
         
     }
+    .instagram{
+   
+    }
     .insta-title{
         padding-left:700px ;
        
@@ -92,6 +104,17 @@ height: 200px;
     width: 300px;
     height: 300px;
 }
-.input{
-    background: url('../flower-shop-assignment/rectangle.png');
+.detail{
+    background-image: url('../flower-shop-assignment/pic/bg.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    margin-top: 100px;
+    padding-left:60px ;
 }
+
+.ftr{
+    background-color: black;
+    color: chartreuse;
+}
+
