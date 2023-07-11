@@ -102,13 +102,13 @@ background-color: rgb(238, 184, 184);
 }
 .red{
     
-    border: 2-x solid red;
+    border: 2px solid red;
     border-top-left-radius: 140px;
     border-top-right-radius: 140px;
 background-color: rgb(213, 191, 234);
 }
 .maroon{
-    border: 2-x solid red;
+    border: 2px solid red;
     border-top-left-radius: 140px;
     border-top-right-radius: 140px;
 background-color: rgb(170, 233, 180);
