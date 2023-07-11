@@ -42,7 +42,7 @@ section .delivery-section{
    
     display: flex;
     justify-content: space-around;
-    background-color: rgb(238, 230, 215);
+    background-color: rgba(237, 230, 216, 0.851);
     margin-top: 40px;
     margin-left: 60px;
     margin-right: 60px;
@@ -50,5 +50,48 @@ section .delivery-section{
 }
 .hot-deal-1 {
     display:flex;
+    background-color: #ef7c9540;
+    margin-top: 30px;
 }
 
+.hot-deal-pic{
+
+width: 200px;
+height: 200px;
+
+}
+.off{
+    color: rgba(182, 8, 66, 0.963);
+}
+.deal-title{
+    font-size: 55px;
+    }
+    .deal-para{
+        margin-left: 30px;
+        font-size: smaller;
+        align-items: center;
+    }
+    #sing-up-button{
+       padding: 0px;
+       margin-left: 320px;
+        align-items: center;
+        
+    }
+    .insta-title{
+        padding-left:700px ;
+       
+    }
+    .insta-para{
+        padding-left:330px;
+    }
+.insta-pic{
+    
+    
+    display: flex;
+    gap: 10px;
+    width: 300px;
+    height: 300px;
+}
+.input{
+    background: url('../flower-shop-assignment/rectangle.png');
+}
